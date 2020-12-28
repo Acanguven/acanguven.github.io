@@ -42,8 +42,33 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: A realistic life simulator full of adventure! # Optional
+marketing_desc: Items
+                  - Lots of items affecting the game differently.
+                  - Some of them are unique and they are hard to find.
+
+                  Jobs
+                  - Many career options with different series of events.
+                  - Decisions to make in each affect your progress in your life.
+
+                  Skills
+                  - Lots of skills to gain, changing the quality of your life.
+                  - You can improve your abilities by taking courses, reading books, or working.
+                  - What you're successful at changes depending on your skills.
+
+                  Actions
+                  - There are so many unique actions: you can try different items and professions, go to places to discover. This simulation is yours, full of adventure!
+
+                  Cities
+                  - There are different places in the game you can visit.
+                  - Options include the bar, park, or the bank. Some places are hidden, it's up to you to find!
+                  - Actions change based on your location.
+                  - You can even meet the zombies if you spend enough time in the cemetery!
+
+                  Daily Development
+                  - Each year lasts 20 days.
+                  - It's up to you to move on to the next day pushing the hour button.
+                  - There is no limit, live as long as you can!
 
 #
 # Social Links
@@ -99,7 +124,7 @@ description: Developing games, apps and the future # Optional - Enter your site 
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: G-6WBHKZ06BT # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
