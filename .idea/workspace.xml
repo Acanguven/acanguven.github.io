@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2dc4106-788d-4a64-9d15-73cce1ed0920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/apple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/socialcard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_devices.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/app-icon-512.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/app-screen-640x1136.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/awesome-app-landing-page-screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/31-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/37-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/58-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/71-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/73-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/75-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/81-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/91-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgrounds/95-usersthink-stock-image-web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/config.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/devices/iphone-se-silver-vertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/devices/iphone-se-space-gray-vertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/devices/ipod-touch-blue-vertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fork.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/default/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/default/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config" beforeDir="false" afterPath="$PROJECT_DIR$/_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d2dc4106-788d-4a64-9d15-73cce1ed0920" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -72,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609120852213</updated>
-      <workItem from="1609120853423" duration="362000" />
+      <workItem from="1609120853423" duration="509000" />
     </task>
     <servers />
   </component>

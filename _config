@@ -99,7 +99,7 @@ description: # Optional - Enter your site description
 #
 # Google Analytics
 #
-google_analytics: G-6WBHKZ06BT # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
