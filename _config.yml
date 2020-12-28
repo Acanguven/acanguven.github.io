@@ -17,7 +17,7 @@ app:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  #favicon: # uncomment if uploading own favicon
+  favicon: images/favicon.ico # uncomment if uploading own favicon
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
