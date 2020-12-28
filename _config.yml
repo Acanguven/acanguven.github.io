@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: A realistic life simulator full of adventure! # Optional
-marketing_desc: Items
+marketing_desc: "Items
                   - Lots of items affecting the game differently.
                   - Some of them are unique and they are hard to find.
 
@@ -68,7 +68,7 @@ marketing_desc: Items
                   Daily Development
                   - Each year lasts 20 days.
                   - It's up to you to move on to the next day pushing the hour button.
-                  - There is no limit, live as long as you can!
+                  - There is no limit, live as long as you can!"
 
 #
 # Social Links
