@@ -81,7 +81,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: ahmetcanguven44@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -146,5 +146,3 @@ include:
   - app-ads.txt
   - privacy_policy.html
   - privacy_policy_tr.html
-  - support_en.html
-  - support_tr.html
