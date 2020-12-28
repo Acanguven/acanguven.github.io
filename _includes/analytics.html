@@ -1,22 +1,9 @@
-{% if site.google_analytics %}
-	<!-- Google Analytics -->
-	<script>
-    window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
-    ga('create','{{ site.google_analytics }}','auto');ga('send','pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6WBHKZ06BT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-	<script>
-		// Automatically track all link clicks
-    $(function() {
-			$('body').on('click', 'a', function(e) {
-				var url = $(this).attr('href');
-				if (url) {
-			    console.info('GA link click event: ', url);
-					ga('send', 'event', 'link', 'click', url);
-				}
-			});
-    });
-  </script>
-	<!-- End Google Analytics -->
-{% endif %}
+  gtag('config', 'G-6WBHKZ06BT');
+</script>
