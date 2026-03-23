@@ -138,4 +138,7 @@ exclude:
 include:
   - app-ads.txt
   - privacy_policy.html
+  - privacy_policy_de.html
   - privacy_policy_tr.html
+  - privacy_policy_br.html
+  - privacy_policy_es.html
