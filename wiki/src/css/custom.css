@@ -1,0 +1,371 @@
+/* ===== Life Simulator Wiki — Theme System ===== */
+
+/* Default: dark theme (matches in-game dark theme) */
+:root,
+[data-theme='dark'] {
+  --ifm-color-primary: #58A6FF;
+  --ifm-color-primary-dark: #3d96ff;
+  --ifm-color-primary-darker: #2f8eff;
+  --ifm-color-primary-darkest: #0a74ff;
+  --ifm-color-primary-light: #73b6ff;
+  --ifm-color-primary-lighter: #81beff;
+  --ifm-color-primary-lightest: #acd5ff;
+  --ifm-background-color: #161B22;
+  --ifm-background-surface-color: #21262D;
+  --ifm-navbar-background-color: #0D1117;
+  --ifm-footer-background-color: #0D1117;
+  --ifm-card-background-color: #21262D;
+  --ifm-font-color-base: #E6EDF3;
+  --ifm-font-color-secondary: #C9D1D9;
+  --ifm-heading-color: #E6EDF3;
+  --ifm-link-color: #58A6FF;
+  --ifm-menu-color: #C9D1D9;
+  --ifm-menu-color-active: #58A6FF;
+  --ifm-menu-color-background-active: rgba(88, 166, 255, 0.1);
+  --ifm-toc-border-color: #30363D;
+  --ifm-color-emphasis-300: #30363D;
+  --ifm-hr-border-color: #30363D;
+  --wiki-accent: #58A6FF;
+  --wiki-card-border: #30363D;
+  --wiki-badge-bg: rgba(88, 166, 255, 0.15);
+  --wiki-badge-text: #58A6FF;
+  --wiki-infobox-bg: #1C2128;
+  --wiki-infobox-header: #0D1117;
+  --wiki-tip-bg: rgba(49, 196, 66, 0.1);
+  --wiki-warning-bg: rgba(219, 40, 37, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-code-font-size: 95%;
+}
+
+/* Light theme */
+[data-game-theme='light'] {
+  --ifm-color-primary: #003049;
+  --ifm-color-primary-dark: #002a40;
+  --ifm-color-primary-darker: #00273d;
+  --ifm-color-primary-darkest: #002032;
+  --ifm-color-primary-light: #003652;
+  --ifm-color-primary-lighter: #003955;
+  --ifm-color-primary-lightest: #004060;
+  --ifm-background-color: rgb(242, 242, 242);
+  --ifm-background-surface-color: #FFFFFF;
+  --ifm-navbar-background-color: #003049;
+  --ifm-navbar-link-color: #FFFFFF;
+  --ifm-navbar-link-hover-color: #FFD700;
+  --ifm-footer-background-color: #003049;
+  --ifm-card-background-color: #FFFFFF;
+  --ifm-font-color-base: #333;
+  --ifm-font-color-secondary: #555;
+  --ifm-heading-color: #003049;
+  --ifm-link-color: #1976D2;
+  --ifm-menu-color: #333;
+  --ifm-menu-color-active: #003049;
+  --ifm-menu-color-background-active: rgba(0, 48, 73, 0.08);
+  --ifm-toc-border-color: #ddd;
+  --ifm-color-emphasis-300: #ddd;
+  --ifm-hr-border-color: #E0E0E0;
+  --wiki-accent: #003049;
+  --wiki-card-border: #ddd;
+  --wiki-badge-bg: rgba(0, 48, 73, 0.1);
+  --wiki-badge-text: #003049;
+  --wiki-infobox-bg: #f8f8f8;
+  --wiki-infobox-header: #003049;
+  --wiki-tip-bg: rgba(49, 196, 66, 0.08);
+  --wiki-warning-bg: rgba(219, 40, 37, 0.08);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Halloween theme */
+[data-game-theme='halloween'] {
+  --ifm-color-primary: #FF6D00;
+  --ifm-color-primary-dark: #e66200;
+  --ifm-color-primary-darker: #d95d00;
+  --ifm-color-primary-darkest: #b34d00;
+  --ifm-color-primary-light: #ff7d1a;
+  --ifm-color-primary-lighter: #ff8326;
+  --ifm-color-primary-lightest: #ff9d53;
+  --ifm-background-color: #120826;
+  --ifm-background-surface-color: #1F0F35;
+  --ifm-navbar-background-color: #1A0A2E;
+  --ifm-footer-background-color: #1A0A2E;
+  --ifm-card-background-color: #1F0F35;
+  --ifm-font-color-base: #E6EDF3;
+  --ifm-font-color-secondary: #C9D1D9;
+  --ifm-heading-color: #E6C8FF;
+  --ifm-link-color: #FF6D00;
+  --ifm-menu-color: #E6C8FF;
+  --ifm-menu-color-active: #FF6D00;
+  --ifm-menu-color-background-active: rgba(255, 109, 0, 0.15);
+  --ifm-toc-border-color: #2D1B4E;
+  --ifm-color-emphasis-300: #2D1B4E;
+  --ifm-hr-border-color: #2D1B4E;
+  --wiki-accent: #FF6D00;
+  --wiki-card-border: #2D1B4E;
+  --wiki-badge-bg: rgba(255, 109, 0, 0.15);
+  --wiki-badge-text: #FF6D00;
+  --wiki-infobox-bg: #1A0A2E;
+  --wiki-infobox-header: #2D1B4E;
+}
+
+/* Ocean theme */
+[data-game-theme='ocean'] {
+  --ifm-color-primary: #00BCD4;
+  --ifm-color-primary-dark: #00a9bf;
+  --ifm-color-primary-darker: #009fb4;
+  --ifm-color-primary-darkest: #008494;
+  --ifm-color-primary-light: #00cfe9;
+  --ifm-color-primary-lighter: #00d9f4;
+  --ifm-color-primary-lightest: #1ae8ff;
+  --ifm-background-color: #0D1F3C;
+  --ifm-background-surface-color: #132B4F;
+  --ifm-navbar-background-color: #0A1628;
+  --ifm-footer-background-color: #0A1628;
+  --ifm-card-background-color: #132B4F;
+  --ifm-font-color-base: #E6EDF3;
+  --ifm-font-color-secondary: #B3E5FC;
+  --ifm-heading-color: #B3E5FC;
+  --ifm-link-color: #00BCD4;
+  --ifm-menu-color: #B3E5FC;
+  --ifm-menu-color-active: #00BCD4;
+  --ifm-menu-color-background-active: rgba(0, 188, 212, 0.15);
+  --ifm-toc-border-color: #1B3A5C;
+  --ifm-color-emphasis-300: #1B3A5C;
+  --ifm-hr-border-color: #1B3A5C;
+  --wiki-accent: #00BCD4;
+  --wiki-card-border: #1B3A5C;
+  --wiki-badge-bg: rgba(0, 188, 212, 0.15);
+  --wiki-badge-text: #00BCD4;
+  --wiki-infobox-bg: #0A1628;
+  --wiki-infobox-header: #1B3A5C;
+}
+
+/* Rose theme */
+[data-game-theme='rose'] {
+  --ifm-color-primary: #E91E63;
+  --ifm-color-primary-dark: #d81557;
+  --ifm-color-primary-darker: #cc1452;
+  --ifm-color-primary-darkest: #a81044;
+  --ifm-color-primary-light: #eb3573;
+  --ifm-color-primary-lighter: #ec3d79;
+  --ifm-color-primary-lightest: #f06690;
+  --ifm-background-color: #1F0818;
+  --ifm-background-surface-color: #361228;
+  --ifm-navbar-background-color: #2B0A1E;
+  --ifm-footer-background-color: #2B0A1E;
+  --ifm-card-background-color: #361228;
+  --ifm-font-color-base: #E6EDF3;
+  --ifm-font-color-secondary: #F8BBD0;
+  --ifm-heading-color: #F8BBD0;
+  --ifm-link-color: #E91E63;
+  --ifm-menu-color: #F8BBD0;
+  --ifm-menu-color-active: #E91E63;
+  --ifm-menu-color-background-active: rgba(233, 30, 99, 0.15);
+  --ifm-toc-border-color: #4A1A3A;
+  --ifm-color-emphasis-300: #4A1A3A;
+  --ifm-hr-border-color: #4A1A3A;
+  --wiki-accent: #E91E63;
+  --wiki-card-border: #4A1A3A;
+  --wiki-badge-bg: rgba(233, 30, 99, 0.15);
+  --wiki-badge-text: #E91E63;
+  --wiki-infobox-bg: #2B0A1E;
+  --wiki-infobox-header: #4A1A3A;
+}
+
+/* Forest theme */
+[data-game-theme='forest'] {
+  --ifm-color-primary: #4CAF50;
+  --ifm-color-primary-dark: #439e47;
+  --ifm-color-primary-darker: #3f9543;
+  --ifm-color-primary-darkest: #347b37;
+  --ifm-color-primary-light: #5cb860;
+  --ifm-color-primary-lighter: #62bb65;
+  --ifm-color-primary-lightest: #7ec881;
+  --ifm-background-color: #0D1A0D;
+  --ifm-background-surface-color: #142814;
+  --ifm-navbar-background-color: #0A1F0A;
+  --ifm-footer-background-color: #0A1F0A;
+  --ifm-card-background-color: #142814;
+  --ifm-font-color-base: #E6EDF3;
+  --ifm-font-color-secondary: #C8E6C9;
+  --ifm-heading-color: #C8E6C9;
+  --ifm-link-color: #4CAF50;
+  --ifm-menu-color: #C8E6C9;
+  --ifm-menu-color-active: #4CAF50;
+  --ifm-menu-color-background-active: rgba(76, 175, 80, 0.15);
+  --ifm-toc-border-color: #1B3A1B;
+  --ifm-color-emphasis-300: #1B3A1B;
+  --ifm-hr-border-color: #1B3A1B;
+  --wiki-accent: #4CAF50;
+  --wiki-card-border: #1B3A1B;
+  --wiki-badge-bg: rgba(76, 175, 80, 0.15);
+  --wiki-badge-text: #4CAF50;
+  --wiki-infobox-bg: #0A1F0A;
+  --wiki-infobox-header: #1B3A1B;
+}
+
+/* ===== Fandom-like Wiki Styling ===== */
+
+/* Infobox component */
+.wiki-infobox {
+  background: var(--wiki-infobox-bg);
+  border: 1px solid var(--wiki-card-border);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  float: right;
+  width: 280px;
+  margin-left: 1.5rem;
+}
+
+.wiki-infobox-header {
+  background: var(--wiki-infobox-header);
+  padding: 10px 14px;
+  font-weight: bold;
+  font-size: 1.05rem;
+  color: var(--ifm-heading-color);
+  text-align: center;
+}
+
+.wiki-infobox-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 14px;
+  border-bottom: 1px solid var(--wiki-card-border);
+  font-size: 0.9rem;
+}
+
+.wiki-infobox-row:last-child {
+  border-bottom: none;
+}
+
+.wiki-infobox-label {
+  font-weight: 600;
+  color: var(--ifm-font-color-secondary);
+}
+
+.wiki-infobox-value {
+  color: var(--ifm-font-color-base);
+}
+
+/* Category badges */
+.wiki-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  background: var(--wiki-badge-bg);
+  color: var(--wiki-badge-text);
+  margin-right: 6px;
+  margin-bottom: 4px;
+}
+
+/* Tip and warning boxes */
+.wiki-tip {
+  background: var(--wiki-tip-bg);
+  border-left: 4px solid #31C442;
+  padding: 12px 16px;
+  border-radius: 0 6px 6px 0;
+  margin: 1rem 0;
+}
+
+.wiki-warning {
+  background: var(--wiki-warning-bg);
+  border-left: 4px solid #DB2825;
+  padding: 12px 16px;
+  border-radius: 0 6px 6px 0;
+  margin: 1rem 0;
+}
+
+/* Stats table styling */
+.wiki-stats-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+.wiki-stats-table th {
+  background: var(--wiki-infobox-header);
+  color: var(--ifm-heading-color);
+  padding: 10px 14px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.wiki-stats-table td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--wiki-card-border);
+}
+
+.wiki-stats-table tr:hover td {
+  background: var(--ifm-menu-color-background-active);
+}
+
+/* Card grid for location/item/skill pages */
+.wiki-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+  margin: 1rem 0;
+}
+
+.wiki-card {
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--wiki-card-border);
+  border-radius: 8px;
+  padding: 14px;
+  transition: border-color 0.2s;
+}
+
+.wiki-card:hover {
+  border-color: var(--wiki-accent);
+}
+
+.wiki-card h4 {
+  margin: 0 0 6px 0;
+  color: var(--wiki-accent);
+}
+
+.wiki-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ifm-font-color-secondary);
+}
+
+/* Difficulty badges */
+.difficulty-easy {
+  background: rgba(49, 196, 66, 0.15);
+  color: #31C442;
+}
+
+.difficulty-medium {
+  background: rgba(255, 152, 0, 0.15);
+  color: #FF9800;
+}
+
+.difficulty-hard {
+  background: rgba(219, 40, 37, 0.15);
+  color: #DB2825;
+}
+
+/* Responsive infobox */
+@media (max-width: 768px) {
+  .wiki-infobox {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+/* Navbar title styling */
+.navbar__title {
+  font-weight: bold;
+}
+
+/* Light theme overrides for navbar */
+[data-game-theme='light'] .navbar {
+  color: #FFFFFF;
+}
+
+[data-game-theme='light'] .navbar__title {
+  color: #FFFFFF;
+}

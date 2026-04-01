@@ -1,0 +1,169 @@
+import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+
+const sidebars: SidebarsConfig = {
+  wikiSidebar: [
+    'intro',
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: [
+        'getting-started/character-creation',
+        'getting-started/basic-mechanics',
+        'getting-started/beginner-tips',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Game Mechanics',
+      items: [
+        'mechanics/stats',
+        'mechanics/money-and-economy',
+        'mechanics/relationships',
+        'mechanics/events',
+        'mechanics/gems-and-boosts',
+        'mechanics/mini-games',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Locations',
+      items: [
+        'locations/overview',
+        'locations/home',
+        'locations/park',
+        'locations/bar',
+        'locations/restaurant',
+        'locations/gym',
+        'locations/hospital',
+        'locations/police-station',
+        'locations/cemetery',
+        'locations/airport',
+        'locations/library',
+        'locations/market',
+        'locations/gun-shop',
+        'locations/electronics-shop',
+        'locations/jewelry-store',
+        'locations/black-market',
+        'locations/bank',
+        'locations/school',
+        'locations/witch-house',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Jobs & Careers',
+      items: [
+        'jobs/overview',
+        'jobs/school-jobs',
+        'jobs/beggar',
+        'jobs/bartender',
+        'jobs/cook',
+        'jobs/waitress',
+        'jobs/developer',
+        'jobs/banker',
+        'jobs/delivery-driver',
+        'jobs/acrobat',
+        'jobs/actor',
+        'jobs/prison-jobs',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Education',
+      items: [
+        'education/overview',
+        'education/courses',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Skills',
+      items: [
+        'skills/overview',
+        'skills/combat-skills',
+        'skills/social-skills',
+        'skills/professional-skills',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Items',
+      items: [
+        'items/overview',
+        'items/food-and-drinks',
+        'items/electronics',
+        'items/weapons',
+        'items/books',
+        'items/special-items',
+        'items/prison-items',
+        'items/hunting-items',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Quests',
+      items: [
+        'quests/overview',
+        'quests/tutorial-quests',
+        'quests/career-quests',
+        'quests/adventure-quests',
+        'quests/prison-quests',
+        'quests/monster-hunter-quests',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Achievements',
+      items: [
+        'achievements/overview',
+        'achievements/core-achievements',
+        'achievements/crime-achievements',
+        'achievements/celebrity-achievements',
+        'achievements/monster-hunter-achievements',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Crime & Prison',
+      items: [
+        'crime/overview',
+        'crime/committing-crimes',
+        'crime/wanted-system',
+        'crime/prison-life',
+        'crime/prison-fights',
+        'crime/prison-quests-guide',
+        'crime/criminal-record',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Modules',
+      items: [
+        'modules/overview',
+        'modules/core',
+        'modules/crime',
+        'modules/celebrity',
+        'modules/monster-hunter',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Social',
+      items: [
+        'social/interactions',
+        'social/relationships-guide',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Health & Diseases',
+      items: [
+        'health/overview',
+        'health/diseases',
+        'health/hospital-vs-witch',
+      ],
+    },
+  ],
+};
+
+export default sidebars;

@@ -134,8 +134,7 @@ sass:
 exclude:
   - LICENSE
   - README.md
-
-keep_files:
+  - wiki
   - docs
 
 include:
