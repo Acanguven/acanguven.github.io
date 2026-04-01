@@ -135,6 +135,9 @@ exclude:
   - LICENSE
   - README.md
 
+keep_files:
+  - docs
+
 include:
   - app-ads.txt
   - privacy_policy.html
