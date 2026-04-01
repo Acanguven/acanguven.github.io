@@ -42,9 +42,11 @@ jobs:
         run: npm run build
         working-directory: wiki
 
-      # Merge wiki into Jekyll output
       - name: Copy wiki into site
-        run: cp -r wiki/build _site/docs
+        run: |
+          sudo mkdir -p _site/docs
+          sudo cp -r wiki/build/* _site/docs/
+          sudo chown -R $USER:$USER _site/docs
 
       - uses: actions/upload-pages-artifact@v3
 
