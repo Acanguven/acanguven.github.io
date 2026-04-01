@@ -1,5 +1,5 @@
 wiki/node_modules/
 wiki/build/
 wiki/.docusaurus/
-docs/
+/docs/
 .DS_Store
