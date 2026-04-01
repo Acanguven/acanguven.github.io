@@ -1,8 +1,12 @@
 /* ===== Life Simulator Wiki — Theme System ===== */
 
+:root {
+  --ifm-code-font-size: 95%;
+}
+
 /* Default: dark theme (matches in-game dark theme) */
-:root,
-[data-theme='dark'] {
+[data-theme='dark'],
+[data-game-theme='dark'] {
   --ifm-color-primary: #58A6FF;
   --ifm-color-primary-dark: #3d96ff;
   --ifm-color-primary-darker: #2f8eff;
@@ -34,10 +38,10 @@
   --wiki-tip-bg: rgba(49, 196, 66, 0.1);
   --wiki-warning-bg: rgba(219, 40, 37, 0.1);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-code-font-size: 95%;
 }
 
 /* Light theme */
+[data-theme='light'],
 [data-game-theme='light'] {
   --ifm-color-primary: #003049;
   --ifm-color-primary-dark: #002a40;

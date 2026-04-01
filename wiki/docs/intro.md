@@ -2,12 +2,12 @@
 slug: /
 sidebar_position: 1
 title: Welcome to Life Simulator Reloaded Wiki
-description: Community guide to Life Simulator Reloaded — stats, jobs, crime, monsters, quests, and more.
+description: Official guide to Life Simulator Reloaded — stats, jobs, crime, monsters, quests, and more.
 ---
 
 # Welcome to Life Simulator Reloaded Wiki
 
-This is the **unofficial community guide** to **Life Simulator Reloaded**, a mobile life simulation game where you shape a character from the ground up: age day by day, chase careers, fall into (or out of) trouble, and explore optional paths like fame, crime, and monster hunting. Think of this hub as a **table-of-contents for the game** — jump to whatever arc you are playing today.
+This is the **official guide** to **Life Simulator Reloaded**, a mobile life simulation game where you shape a character from the ground up: age day by day, chase careers, fall into (or out of) trouble, and explore optional paths like fame, crime, and monster hunting. Think of this hub as a **table-of-contents for the game** — jump to whatever arc you are playing today.
 
 :::tip New here?
 Start with **[Character Creation](./getting-started/character-creation)** and **[Basic Mechanics](./getting-started/basic-mechanics)**, then skim **[Beginner Tips](./getting-started/beginner-tips)** before you reroll your first life.
@@ -55,4 +55,4 @@ Wiki pages may describe mechanics, locations, and outcomes in detail. If you pre
 
 ---
 
-*Life Simulator Reloaded is a mobile game; this wiki is a player-focused reference and may lag behind the latest app version.*
+*Life Simulator Reloaded is a mobile game; this wiki is the official player reference and is updated alongside the app.*
