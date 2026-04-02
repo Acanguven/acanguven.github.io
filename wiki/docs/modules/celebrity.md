@@ -27,8 +27,18 @@ The pack supports **actor / entertainer** style careers:
 - **Story choices** and events around press, scandals, and big breaks
 - Money can spike when you **hit it big**, but downside events also show up (public shame, stalker-style beats, and similar)
 
+## Streaming
+
+The **streamer** career lets you build a personal channel and grow an audience:
+
+- **Personalized channel** — choose your channel name and content category (gaming, IRL, music, tech, creative) when you start
+- **Subscriber system** — your follower count grows over time and directly affects earnings and viewer counts
+- **Stream series** — multi-day events with random encounters like trolls, raids, donations, copyright strikes, and viral moments
+- **Gaming PC upgrades** — buy and upgrade a gaming PC at the electronics shop for better streaming performance, up to level 5
+- **Mini-game** — the **Go Live** action uses a tap-targets mini-game that gets easier with a better PC
+
 :::info
-Treat fame as a **meter that unlocks doors** — exact job names and promotion steps appear in-game as you play.
+Streaming and acting are both fame careers but play differently: actors chase auditions and movie releases, streamers build a subscriber base and manage their channel daily.
 :::
 
 ## How to become famous (strategy)

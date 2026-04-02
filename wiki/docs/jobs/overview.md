@@ -40,6 +40,7 @@ Before chasing a promotion, open the job’s level list and note **hard gates** 
 | [Delivery driver](./delivery-driver.md) | Driving-based logistics |
 | [Acrobat](./acrobat.md) | Performance and risky decisions |
 | [Actor](./actor.md) | Fame-focused celebrity career |
+| [Streamer](./streamer.md) | Build a channel, grow subscribers, stream for fame |
 | [Prison jobs](./prison-jobs.md) | Laundry and barber behind bars |
 
 :::tip

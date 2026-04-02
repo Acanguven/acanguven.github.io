@@ -64,6 +64,7 @@ const sidebars: SidebarsConfig = {
         'jobs/delivery-driver',
         'jobs/acrobat',
         'jobs/actor',
+        'jobs/streamer',
         'jobs/prison-jobs',
       ],
     },
