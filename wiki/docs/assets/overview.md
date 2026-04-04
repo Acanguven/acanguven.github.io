@@ -19,9 +19,15 @@ Tap the **Assets** button on the main screen. A bottom sheet slides up showing s
 | **Collections** | Available | Buy and sell collectibles at auction |
 | **Vehicles** | Coming Soon | — |
 | **Company** | Coming Soon | — |
-| **Bank** | Coming Soon | — |
+| **Bank** | Available | Savings, loans, credit cards, and credit score management |
 
 Tap any available category to expand it into a full-screen view.
+
+## Bank
+
+Open a bank account to manage **savings**, **fixed deposits**, **loans**, and a **credit card**. Your **credit score** (300–850) determines what loan types and interest rates you qualify for. Earn daily interest on savings, lock money into fixed deposits for better returns, or borrow for big purchases. Includes a risky **loan shark** option and the ability to file **bankruptcy** as a last resort.
+
+Full guide: [Bank](./bank.md)
 
 ## Housing
 
@@ -44,5 +50,5 @@ Full guide: [Collections & Auctions](./collections.md)
 ---
 
 :::tip
-Housing is the best early investment — the stat bonuses compound every single day. Once you have a stable income, branch into stocks for passive growth and collections for high-risk, high-reward profits.
+Housing is the best early investment — the stat bonuses compound every single day. Open a **bank account** early to start earning interest and building credit history. Once you have a stable income, branch into stocks for passive growth and collections for high-risk, high-reward profits.
 :::

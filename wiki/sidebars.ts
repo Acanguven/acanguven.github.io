@@ -32,6 +32,7 @@ const sidebars: SidebarsConfig = {
         'assets/housing',
         'assets/stock-market',
         'assets/collections',
+        'assets/bank',
       ],
     },
     {
@@ -163,6 +164,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'social/interactions',
         'social/relationships-guide',
+        'social/dating-app',
       ],
     },
     {

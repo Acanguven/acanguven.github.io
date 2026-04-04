@@ -37,6 +37,7 @@ Moving someone from neutral to friend (or rival) usually takes **repeated intera
 ## Building romance
 
 - Invest **time** and **appropriate actions** (dates, gifts, supportive choices).
+- Use the **[Dating App](../social/dating-app)** (18+, requires a mobile phone) to swipe through profiles and find romantic matches quickly.
 - Watch for **blocking statuses** (e.g. existing partner rules); some paths require clearing or accepting consequences.
 - **LOVE** category NPCs often tie into **family** planning and long-term story beats—pace your career stress so you can afford the social maintenance.
 

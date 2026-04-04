@@ -6,13 +6,14 @@ description: Bank — trade gold coins against a moving price and pursue banker 
 
 # Bank
 
-The **bank** is the **finance** spot in the city: **gold trading** lives here, and the **banker** job path is tied to this building.
+The **bank** is the **finance** spot in the city: **gold trading** lives here, and the **banker** job path is tied to this building. For the full banking system (savings, loans, credit cards), see **[Assets: Bank](../assets/bank)**.
 
 ## What you can do
 
 - **Buy gold** — While not in prison, spend **cash** at the **current gold price**. Choose how many coins to buy; large holdings count toward **gold hoarder** achievements at 10, 100, and 1,000 coins.
 - **Sell gold** — Cash out coins at **slightly below** the buy price for quick money.
 - **Work as a banker** — Interview-heavy career with rising titles; see **[Jobs: Banker](../jobs/banker)**.
+- **Manage your finances** — Open a bank account to access **savings**, **loans**, **credit cards**, and more from the **[Assets panel](../assets/bank)**.
 
 ## When to visit
 

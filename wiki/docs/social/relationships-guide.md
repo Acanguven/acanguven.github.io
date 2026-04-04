@@ -35,8 +35,9 @@ Keep **morale** up so you have energy to maintain family during grindy jobs.
 Romantic arcs use the **romance** category:
 
 1. Raise **love** and **friendship** through flirt and date style beats (exact options vary by age and location).
-2. Watch for **blockers** — existing partners, age limits, or conflicting story situations.
-3. When **commitment** choices appear, decide carefully; saying no often has a cost.
+2. Use the **[Dating App](./dating-app)** to swipe for romantic matches — the fastest way to meet new love interests once you're 18+ with a mobile phone.
+3. Watch for **blockers** — existing partners, age limits, or conflicting story situations.
+4. When **commitment** choices appear, decide carefully; saying no often has a cost.
 
 :::info
 Love and friendship are **separate** meters. You can be close friends without romance, or romantic while fixing hate after a fight — know which bar you are working on.
