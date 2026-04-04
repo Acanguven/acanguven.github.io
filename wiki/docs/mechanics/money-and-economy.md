@@ -40,6 +40,14 @@ Watch for **extra stock** unlocked by optional story packs: crime, celebrity, an
 Before big purchases, ask: *Does this unlock actions, save meters, or speed a quest?* Decorative buys are fine for flavor; progression buys win tight runs.
 :::
 
+## Assets panel
+
+Once you have some savings, open the **Assets** panel to manage your wealth across three systems:
+
+- **Housing** — Buy or rent properties, place furniture for stat bonuses, rent out extra properties for passive income. See: [Housing](../assets/housing.md).
+- **Stock Market** — Invest in shares of 9 companies across 7 sectors. Prices change daily and react to news events — buy a **mobile phone** to receive alerts. See: [Stock Market](../assets/stock-market.md).
+- **Collections** — Buy and sell collectibles at auction. Items appreciate over time. See: [Collections & Auctions](../assets/collections.md).
+
 ## Gem economy (overview)
 
 Gems are **not** regular cash. They buy skips, boosts, and select market exclusives. Budget them for moments where failure costs **days** or **stats**—not for every small inconvenience. Details: [Gems & boosts](./gems-and-boosts.md).
@@ -50,6 +58,7 @@ Gems are **not** regular cash. They buy skips, boosts, and select market exclusi
 2. **Stack passive-friendly days** — work → recover → repeat beats constant risky grinds.
 3. **Sell what you do not need** after events that flood inventory.
 4. **Invest in education** when a course unlocks a higher wage tier; treat tuition as ROI, not sunk cost.
+5. **Play the stock market** — buy stocks after bad news, sell on recovery. Even safe stocks like GoldBank beat leaving cash idle.
 
 ---
 

@@ -26,6 +26,16 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Assets',
+      items: [
+        'assets/overview',
+        'assets/housing',
+        'assets/stock-market',
+        'assets/collections',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Locations',
       items: [
         'locations/overview',
